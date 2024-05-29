@@ -1,6 +1,6 @@
 # CLTV_prediction_with_BG-NBD_Gamma-Gamma_models
 
-# Customer Lifetime Value (CLTV) Prediction with BG-NBD & Gamma-Gamma Model
+## Customer Lifetime Value (CLTV) Prediction with BG-NBD & Gamma-Gamma Model
 
 ## Business Problem
 
