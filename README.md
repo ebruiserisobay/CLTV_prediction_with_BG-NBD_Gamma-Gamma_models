@@ -1,12 +1,14 @@
 # CLTV_prediction_with_BG-NBD_Gamma-Gamma_models
 
-Customer Lifetime Value (CLTV) Prediction with BG-NBD & Gamma-Gamma Model
+# Customer Lifetime Value (CLTV) Prediction with BG-NBD & Gamma-Gamma Model
 
-Business Problem
+## Business Problem
+
 A comprehensive roadmap has been developed for the sales and marketing endeavors of FLO company within the retail sector, aimed at enabling the company to formulate medium to long-term strategies. Additionally, leveraging analytical techniques such as BG-NBD and Gamma-Gamma models, predictive analysis has been conducted to estimate the potential Customer Lifetime Value (CLTV) that existing customers will contribute to the company in the foreseeable future.
 
-About Dataset
-The data set consists of information obtained from the past shopping behavior of customers who made their last purchases as OmniChannel (both online and offline shoppers) in 2020 - 2021.
+## About Dataset
+
+ The data set consists of information obtained from the past shopping behavior of customers who made their last purchases as OmniChannel (both online and offline shoppers) in 2020 - 2021.
 
 * **master_id:** Unique customer number
 * **order_channel :** Which channel of the shopping platform is used (Android, iOS, Desktop, Mobile, Offline)
